@@ -19,7 +19,7 @@ const Home: React.FC = () => {
       </Typography>
 
       <Typography variant="h5" style={{ marginTop: '40px' }} gutterBottom>
-        Tem um projeto em mente? Eu ajudarei a transformá-la em realidade, Vamos conversar!
+        Tem um projeto em mente? Eu ajudarei a transformá-lo em realidade, Vamos conversar!
       </Typography>
       
       <Form /> {/* Renderiza o componente Form */}
